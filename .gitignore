@@ -1,0 +1,13 @@
+build/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+*.idsig
+tools/platform/
+tools/build-tools/
+tools/jdk/
+tools/*.zip
+tools/*.tar.gz
+tools/*.sha256
+tools/debug.keystore
