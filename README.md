@@ -1,4 +1,4 @@
-# Forklift Companion 0.1.0
+# Service Logger 0.1.0
 
 **Downloads:** [Android APK](https://github.com/ckarlsen7/service-logger/raw/refs/heads/main/dist/ForkliftCompanion.apk) · [Windows receiver add-on](https://github.com/ckarlsen7/service-logger/raw/refs/heads/main/dist/receiver-companion.zip) · [Arduino firmware](https://github.com/ckarlsen7/service-logger/raw/refs/heads/main/dist/logger-companion-firmware.zip) · [All source](https://github.com/ckarlsen7/service-logger/raw/refs/heads/main/dist/ForkliftCompanion-source.zip)
 
